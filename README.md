@@ -6,10 +6,12 @@ Seyali's Combatlogger
 ![alt-text](https://cdn.discordapp.com/attachments/302901414269681664/751701894526926868/features.png)
 
 (Tab Completion)
+
 ![alt-text](https://cdn.discordapp.com/attachments/302901414269681664/751701893260247050/Annotation_2020-09-05_020036.png)
 
 (Default messages for combat logging.)
-![alt-text] (https://cdn.discordapp.com/attachments/302901414269681664/751702453853880330/Annotation_2020-09-05_021659.png)
+
+![alt-text](https://cdn.discordapp.com/attachments/302901414269681664/751702453853880330/Annotation_2020-09-05_021659.png)
 
 
 
