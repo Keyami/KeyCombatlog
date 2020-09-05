@@ -1,0 +1,9 @@
+name: "KeyCombatlog"
+version: '1.0'
+api-version: 1.13
+main: io.github.Keyami.KeyCombatlog.KeyCombatlog
+commands:
+  cl:
+    permission: cl.use
+    description: Check combat log status.
+    usage: /cl <subcommand>
